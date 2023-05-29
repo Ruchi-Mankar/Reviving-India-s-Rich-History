@@ -7,3 +7,5 @@ India is a country with a rich cultural and historical heritage, with numerous a
 2. Assess the condition of these landmarks and determine what needs to be done to restore them.
 3. Create a platform for public engagement and awareness, enabling people to learn about India's rich history and cultural heritage.
 4. Provide accessibility to these landmarks, making them available to the general public.
+### Site
+https://ruchi-mankar.github.io/Reviving-India-s-Rich-History/
