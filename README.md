@@ -8,7 +8,7 @@ India is a country with a rich cultural and historical heritage, with numerous a
 4. Provide accessibility to these landmarks, making them available to the general public.
 ## Site
 https://ruchi-mankar.github.io/Reviving-India-s-Rich-History/
-### Project by
+## Project by
 Ruchi Mankar (https://github.com/Ruchi-Mankar)
 
 Nikhita Gharpure
