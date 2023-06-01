@@ -7,7 +7,7 @@ India is a country with a rich cultural and historical heritage, with numerous a
 3. Create a platform for public engagement and awareness, enabling people to learn about India's rich history and cultural heritage.
 4. Provide accessibility to these landmarks, making them available to the general public.
 ## Site
-https://ruchi-mankar.github.io/Reviving-India-s-Rich-History/
+https://ruchi-mankar.github.io/Reviving-India-s-Rich-History/#5/22.391/82.793
 ## Project by: B04
 Ruchi Mankar (211081028) (https://github.com/Ruchi-Mankar)
 and
